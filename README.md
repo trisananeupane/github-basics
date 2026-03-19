@@ -1,6 +1,6 @@
 # Project Title
 
-A short description of what your project does and why it exists.
+A short description of trisana what your project does and why it exists.
 
 ## 🚀 Features
 - Feature one
